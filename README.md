@@ -5,24 +5,24 @@ Sou Thiago Borges Fernandes, desenvolvedor web e estudante de **Tecnologia em An
 
 ## Habilidades Técnicas
 
-- **Linguagens de Programação**: PHP, JavaScript, HTML, CSS, SASS/SCSS, SQL
+- **Linguagens de Programação**: PHP, JavaScript, HTML, CSS, SASS/SCSS, SQL, JAVA
 - **Frameworks e Bibliotecas**: Bootstrap, Node.js, React (em aprendizado)
 - **Ferramentas de Design**: Figma
 - **Versionamento de Código**: Git, GitHub
 - **Banco de Dados**: MySQL, PostgreSQL, SQLite
 - **Outras Tecnologias**: TypeScript, API REST (Jikan)
-- **Sistemas Operacionais**: Linux Ubuntu
+
 
 ## Projetos Recentes
 
-### [AnimesNexus](https://github.com/seu-repositorio-aqui)
+### [Site de Animes](https://github.com/thiagobfernandes/Animes)
 Um site sobre animes que utiliza PHP, JavaScript, Bootstrap, e a API pública do Jikan para exibir cards de animes. Estou desenvolvendo funcionalidades dinâmicas para a geração de páginas e enfrentando desafios com roteamento de URLs e inclusão de arquivos PHP.
 
-### [Site para Advogados](https://github.com/seu-repositorio-aqui)
+### [Site para Advogados] Em breve)
 Desenvolvimento de um site para um escritório de advocacia. A proposta envolve a criação de uma landing page personalizada, com design elegante e responsivo, ajustado conforme as necessidades do cliente.
 
-### [Projeto para Codecam](https://github.com/seu-repositorio-aqui)
-Participação em um projeto de longo prazo para a empresa Codecam, focado em melhorar a infraestrutura digital de Campo Mourão. O projeto utiliza tecnologias como HTML, CSS, Bootstrap, MySQL, Node.js e React.
+### [Projeto Back-end TypeScript](https://github.com/thiagobfernandes/Curso_Back-end-Node-TS)
+Sistema de autenticação de usuários utilizando Node.js, TypeScript, PostgreSQL e Knex.js.
 
 ## Experiência Acadêmica
 
@@ -31,7 +31,7 @@ Atualmente, estou cursando o segundo período de **Tecnologia em Análise e Dese
 ## Contato
 
 - **LinkedIn**: [Thiago Borges Fernandes](https://www.linkedin.com/in/thiago-borges-fernandes-7936ab294/)
-- **Email**: seu-email@example.com
+- **Email**: thiago.fernandes@grupointegrado.br
 
 ---
 
