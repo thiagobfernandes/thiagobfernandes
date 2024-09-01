@@ -5,12 +5,12 @@ Sou Thiago Borges Fernandes, desenvolvedor web e estudante de **Tecnologia em An
 
 ## Habilidades Técnicas
 
-- **Linguagens de Programação**: PHP, JavaScript, HTML, CSS, SASS/SCSS, SQL, JAVA
-- **Frameworks e Bibliotecas**: Bootstrap, Node.js, React (em aprendizado)
+- **Linguagens de Programação**: PHP, JavaScript, SQL, JAVA, C++, Visual Basic 2010
+- **Frameworks e Bibliotecas**: Bootstrap,Typescript, Node.js, HTML, CSS, SASS/SCSS, React (em aprendizado)
 - **Ferramentas de Design**: Figma
 - **Versionamento de Código**: Git, GitHub
 - **Banco de Dados**: MySQL, PostgreSQL, SQLite
-- **Outras Tecnologias**: TypeScript, API REST (Jikan)
+  
 
 
 ## Projetos Recentes
