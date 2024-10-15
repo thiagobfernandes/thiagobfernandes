@@ -1,38 +1,34 @@
 # Thiago Borges Fernandes
 
-## Sobre Mim
-Sou Thiago Borges Fernandes, desenvolvedor web e estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**. Tenho uma forte paixão por tecnologia e inovação, sempre buscando criar soluções eficientes e funcionais através do desenvolvimento de sites e aplicativos web. Com habilidades em front-end e back-end, estou constantemente aprimorando meu conhecimento e aplicando-o em projetos desafiadores.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthiagobfernandes%2Fthiagobfernandes&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Habilidades Técnicas
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/thiago-borges-fernandes-7936ab294//)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/https://www.instagram.com/thiagobferdev//)](https://www.instagram.com/https://www.instagram.com/thiagobferdev/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thiago5437br@gmail.com)
 
-- **Linguagens de Programação**: PHP, JavaScript, JAVA, C++, Visual Basic 2010,
-- **Frameworks e Bibliotecas**: Bootstrap,Typescript, HTML, CSS, SASS/SCSS, React (em aprendizado)
-- **Ferramentas de Design**: Figma
-- **Versionamento de Código**: Git, GitHub
-- **Banco de Dados**: MySQL, PostgreSQL, SQLite
-  
+[![Github](https://img.shields.io/github/followers/thiagobfernandes?label=Follow&style=social)](https://github.com/thiagobfernandes)
+
+-  💻 Desenvolvedor Back-End, com experiência em tecnologias como Node.js, TypeScript, PHP, e bancos de dados como MySQL e PostgreSQL. Acesse meu GitHub para conferir projetos recentes.
+- 🤔 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS),
+- 🌱 🌱 Estudando segurança da informação, Docker e Java para expandir minhas habilidades e explorar novas áreas do desenvolvimento.
+- 📫Para entrar em contato:thiago5437br@gmail.com
 
 
-## Projetos Recentes
+### 🖥 Skills
 
-### [Site de Animes](https://github.com/thiagobfernandes/Animes)
-Um site sobre animes que utiliza PHP, JavaScript, Bootstrap, e a API pública do Jikan para exibir cards de animes. Estou desenvolvendo funcionalidades dinâmicas para a geração de páginas e enfrentando desafios com roteamento de URLs e inclusão de arquivos PHP.
+- Cibersegurança
+- Back-end
+- Front-end
+- Banco de Dados
+### ⚙️ Tech Stack
 
-### [Site para Advogados] Em breve)
-Desenvolvimento de um site para um escritório de advocacia. A proposta envolve a criação de uma landing page personalizada, com design elegante e responsivo, ajustado conforme as necessidades do cliente.
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=Typescript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Springboot-05122A?style=flat-square&logo=Springboot&color=353535)
 
-### [Projeto Back-end TypeScript](https://github.com/thiagobfernandes/Curso_Back-end-Node-TS)
-Sistema de autenticação de usuários utilizando Node.js, TypeScript, PostgreSQL e Knex.js.
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagobfernandes&show_icons=true&locale=en&layout=compact" alt="thiagobfernandes" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=thiagobfernandes&" alt="thiagobfernandes" />
+</div>
 
-## Experiência Acadêmica
-
-Atualmente, estou cursando o segundo período de **Tecnologia em Análise e Desenvolvimento de Sistemas** na Universidade Integrado. Participo ativamente do Bootcamp Aceleração de Carreiras do Integrado, onde trabalho em projetos reais com clientes, aprimorando minhas habilidades técnicas e sociais.
-
-## Contato
-
-- **LinkedIn**: [Thiago Borges Fernandes](https://www.linkedin.com/in/thiago-borges-fernandes-7936ab294/)
-- **Email**: thiago.fernandes@grupointegrado.br
 
 ---
-
-Sinta-se à vontade para explorar meus projetos e contribuir com sugestões ou melhorias!
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
