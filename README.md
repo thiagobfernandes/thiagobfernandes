@@ -20,6 +20,7 @@
 - Back-end
 - Front-end
 - Banco de Dados
+- Redes de Computadores
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=flat-square&logo=Typescript&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Springboot-05122A?style=flat-square&logo=Springboot&color=353535)
